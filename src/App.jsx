@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <Router basename="/s111-skill3-30570">
+      <Router basename="/s111-skill3-30570-git-actions-frontend">
         <Routes>
           <Route path="/" element={<HomePage />}>
             <Route index element={<AboutUs />} />
